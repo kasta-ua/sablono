@@ -1,4 +1,4 @@
-(defproject sablono "0.8.6"
+(defproject ua.kasta/sablono "0.8.6-1"
   :description "Lisp style templating for Facebook's React."
   :url "http://github.com/r0man/sablono"
   :author "r0man"
